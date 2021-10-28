@@ -9,7 +9,7 @@ This data set is concerned about predicting concrete compressive strength with 8
 I'll be analyzing the data set and developing machine learning models to predict concrete compressive strength. Although I load the data directly from the UCI repository online, you can find Prof. I-Cheng Yeh's original data set and original README file with the names <i>Concrete_Data.xls</i> and <i>Concrete_Readme.txt</i> respectively in this repo.
 
 Please find the details of this project below:
-* __Languages__: Python
+* __Language__: Python
 * __Primary Libraries__: pandas, scikit-learn, scikit-optimize, matplotlib.pyplot, seaborn
 * __Apps & Tools__: Google Colab / Jupyter Notebook
 * __Machine Learning models__: Linear Regression, K-Nearest Neighbors (KNN) with & without GridSearchCV, Random Forest with & without GirdSearchCV, XGBoost with & without BayesSearchCV (i.e. Bayesian Optimization)
